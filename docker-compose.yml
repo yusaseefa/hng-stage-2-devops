@@ -1,7 +1,7 @@
 version: "3.1"
 services:
   frontend: 
-    build: ./frontend
+    image: volunux/hng9i-fe
     restart: always
     networks:
       - hng9_2
@@ -9,7 +9,7 @@ services:
       - 3000:3000
     
   api:
-    build: ./api
+    image: volunux/hng9i-be
     restart: always
     networks:
       - hng9_2
