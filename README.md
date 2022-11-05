@@ -1,4 +1,5 @@
 
+
 # devops-django-react-task
 
 ## Backend development workflow
@@ -27,6 +28,6 @@ npm run build
 
 It should look like this if successful
 <img width="1440" alt="Screen Shot 2022-11-02 at 19 30 22" src="https://user-images.githubusercontent.com/66765302/199572589-43bd05b7-95a6-455c-bc25-3cd437c95339.png">
+
 # hng-stage-2-devops
 An project containing a dockerized services including react and django web api.
-
